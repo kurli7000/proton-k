@@ -1,0 +1,41 @@
+/*  GIMP icon image format -- S. Kimball, P. Mattis  */
+/*  Image name: gicon  */
+
+
+#define gicon_width 32
+#define gicon_height 32
+static char *gicon_bits [] = 
+{
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhfdddghhhgddddddddehgeddfhhhhh",
+  "hhdaaabghhhfbaaaaaaadgaaaadhhhhh",
+  "hhcbghhhhhhhhhhebhhhhebfhhhhhhhh",
+  "hhdaabbbbcfhhhhebhhhhgaabbbbcehh",
+  "hhhfddddcbaehhhebhhhhhgedddccach",
+  "hhhhhhhhhdadhhhebhhhhhhhhhhhgbbh",
+  "hhcaaaaaaabfhhhebhhhhfaaaaaaabdh",
+  "hhffffffffghhhhgfhhhhgfffffffghh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+};
